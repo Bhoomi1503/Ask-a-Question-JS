@@ -1,0 +1,38 @@
+.section{
+    text-align: center;
+    width: 400px;
+    margin-left: 550px;
+    margin-top: 200px;
+}
+fieldset{
+    border: 4px solid gold;
+    border-radius: 15px;
+    background:linear-gradient(to right, white, lightpink);
+}
+i{
+    border: 1px solid gold;
+    padding: 30px;
+    border-radius: 200px;
+    font-size: 60px;
+    background-color: gold;
+    color: white;
+}
+input{
+    padding: 6px;
+    width: 300px;
+    background:linear-gradient(to right, lightpink,white);
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+
+}
+#btn{
+    background:linear-gradient(to right,gold,rgb(234, 209, 62)) ;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    margin-right:20px ;
+    height: 35px;
+    margin-bottom: 20px;
+}
